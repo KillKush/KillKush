@@ -24,4 +24,5 @@
 - Soy un chico Argentino.
 - Me la paso el día en discord
 - Me gusta mucho programar en Python y en JavaScript
-- Mi Discord es # ; Mica#9992
+- Mi Discord es:
+# ; Mica#9992
