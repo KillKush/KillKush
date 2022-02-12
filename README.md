@@ -4,10 +4,6 @@
 
 [![Javascript](https://img.shields.io/badge/-Javascript-ffff00?style=for-the-badge&labelColor=black&logo=javascript&logoColor=61DBF)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 <br>
-[![Typescript](https://img.shields.io/badge/-Typescript-188acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=188acc)](https://www.typescriptlang.org/)
-<br>
-[![C](https://img.shields.io/badge/-C-76bcd6?style=for-the-badge&labelColor=black&logo=c&logoColor=61DBF)](https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n))
-<br/>
 [![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBF)](https://reactjs.org/)
 <br/>
 [![Python](https://img.shields.io/badge/-Python-245f7d?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBF)](https://www.python.org/)
