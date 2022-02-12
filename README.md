@@ -18,3 +18,10 @@
 
 - Mis proyectos: https://discord.gg/UTqsQ4SZkT
 
+
+# Información Sobre Mí:
+
+- Soy un chico Argentino.
+- Me la paso el día en discord
+- Me gusta mucho programar en Python y en JavaScript
+- Mi Discord es # ; Mica#9992
